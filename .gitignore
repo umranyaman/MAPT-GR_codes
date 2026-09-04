@@ -1,0 +1,28 @@
+# Data files — do not commit
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq
+*.fa
+*.fai
+*.bed
+*.bed.gz
+*.tbi
+*.tsv
+*.txt
+*.svg
+*.png
+
+# Logs
+logs/
+*.out
+*.err
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
