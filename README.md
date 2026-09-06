@@ -46,4 +46,4 @@ micromamba environment (`modbamtools`): samtools ≥1.22, minimap2 ≥2.30, modk
 
 ## Data
 
-Raw sequencing data are deposited at NCBI SRA under BioProject PRJNA###### (BioSamples SAMN62928088–SAMN62928091). Files are aligned modBAMs mapped to the custom hybrid reference described above.
+Raw sequencing data are deposited at NCBI SRA under BioProject PRJNA1524514 (BioSamples SAMN62928088–SAMN62928091). Files are aligned modBAMs mapped to the custom hybrid reference described above.
